@@ -1,7 +1,6 @@
 # 식상해
 
-- Front : Android / Kotlin
-- Server : Spring-boot / Java
+- Front : Android / Kotlin , Server : Spring-boot / Java
 
 - 명세서  [https://docs.google.com/spreadsheets/d/1ZIBKBb9rzFRdJLu0Tj8fB21vMB358acAoEMo48ESjyA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZIBKBb9rzFRdJLu0Tj8fB21vMB358acAoEMo48ESjyA/edit?usp=sharing)
 
